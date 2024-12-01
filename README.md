@@ -1,5 +1,3 @@
 // install this 
 
-pip install aiohttp
-pip install asyncpg
-pip install pytz
+pip install aiohttp asyncpg pytz
